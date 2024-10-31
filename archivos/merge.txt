@@ -2,3 +2,9 @@ Mi nombre es Jose Mauricio Toscano Aguas.
 Mi edad es de 18 años.
 Mis aspiraciones en el curso de Programación Orientada a Objetos, es lograr dominar el tema de objetos tanto en java como en python,
 desarrollando habilidades cruciales para desempeñarme mejor en mi carrera y mi vida profesional.
+Me es posible crear un commit gracias a la existencia de un archivo de texto en la carpeta.
+Me es posible crear un commit gracias a la existencia de un archivo de texto en la carpeta.
+Mi nombre es Jose Mauricio Toscano Aguas.
+Mi edad es de 18 años.
+Mis aspiraciones en el curso de Programación Orientada a Objetos, es lograr dominar el tema de objetos tanto en java como en python,
+desarrollando habilidades cruciales para desempeñarme mejor en mi carrera y mi vida profesional.
