@@ -8,3 +8,4 @@ Mi nombre es Jose Mauricio Toscano Aguas.
 Mi edad es de 18 años.
 Mis aspiraciones en el curso de Programación Orientada a Objetos, es lograr dominar el tema de objetos tanto en java como en python,
 desarrollando habilidades cruciales para desempeñarme mejor en mi carrera y mi vida profesional.
+Al modificar archivos desde varios lugares, corremos el riesgo de generar conflictos entre archivos con nombres iguales, llegando a la engorrosa situación de tener ue sobreesribir los archivos en conflicto.
